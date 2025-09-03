@@ -28,4 +28,4 @@ The program focused on building practical SOC analyst skills, log analysis, auto
 
 ## 📄 Certificate  
 
-👉 [View Google Cybersecurity Certificate](#) *(https://coursera.org/share/cacd9dd53e79251e9d866b4128f6eda8)*  
+👉 [View Google Cybersecurity Certificate](#)(https://coursera.org/share/cacd9dd53e79251e9d866b4128f6eda8). 
